@@ -1,0 +1,6 @@
+[submodule "python/berkeley-hardfloat"]
+	path = python/berkeley-hardfloat
+	url = https://github.com/ucb-bar/berkeley-hardfloat
+[submodule "python/api-config-chipsalliance"]
+	path = python/api-config-chipsalliance
+	url = https://github.com/chipsalliance/api-config-chipsalliance
