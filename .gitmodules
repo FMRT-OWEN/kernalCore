@@ -4,3 +4,12 @@
 [submodule "python/api-config-chipsalliance"]
 	path = python/api-config-chipsalliance
 	url = https://github.com/chipsalliance/api-config-chipsalliance
+[submodule "python/rocket-chip"]
+	path = python/rocket-chip
+	url = git@github.com:chipsalliance/rocket-chip.git
+[submodule "python/chisel-testers2"]
+	path = python/chisel-testers2
+	url = git@github.com:ucb-bar/chisel-testers2.git
+[submodule "python/block-inclusivecache-sifive"]
+	path = python/block-inclusivecache-sifive
+	url = git@github.com:sifive/block-inclusivecache-sifive.git
